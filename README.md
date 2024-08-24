@@ -28,7 +28,7 @@ This script automates the security audit and hardening process for Linux servers
 1. **Clone the Repository** (if hosted on GitHub):
 
     ```bash
-        git clone https://github.com/yourusername/your-repo-name.git
+        git clone https://github.com/mgurudeepthi/set2.git
 	    cd your-repo-name
 	        ```
 
@@ -79,7 +79,7 @@ This script automates the security audit and hardening process for Linux servers
   1. **Clone the Repository** (if hosted on GitHub):
      
      ```bash
-         git clone https://github.com/yourusername/your-repo-name.git
+         git clone https://github.com/mgurudeepthi/set2.git
 	     cd your-repo-name
 	         ```
   2. **Make the Script Executable**:
@@ -145,11 +145,7 @@ This script automates the security audit and hardening process for Linux servers
  - Generates a summary report of the audit and hardening process
 
 
- ## License
-
- This script is provided under the MIT License. See [LICENSE](LICENSE) for more details.
-
  ## Contact
 
  For questions or issues, please open an issue on the [GitHub repository]
-
+(https://github.com/mgurudeepthi/set2.git)
